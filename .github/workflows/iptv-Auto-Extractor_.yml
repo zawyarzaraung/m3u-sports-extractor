@@ -1,0 +1,48 @@
+name: 🔄 IPTV Auto Sports Extractor & Health Check
+
+on:
+  schedule:
+    # ၆ နာရီခြားတစ်ခါ အလိုအလျောက် ပတ်မည် (UTC အချိန်ဖြင့် 00:00, 06:00, 12:00, 18:00)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # သင်ကိုယ်တိုင် ခလုတ်နှိပ်ပြီး ကိုယ်တိုင် manually run ချင်ရင်လည်း ရအောင် လုပ်ထားခြင်း
+
+jobs:
+  run-extractor:
+    runs-on: ubuntu-latest
+
+    steps:
+    # ၁။ Repo ကုတ်များကို ဒေါင်းလုဒ်ဆွဲခြင်း
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # ၂။ Python Environment အသင့်ပြင်ခြင်း
+    - name: Set up Python
+      uses: actions/checkout@v4
+      with:
+        python-version: '3.10'
+
+    # ၃။ လိုအပ်သော requests library များ သွင်းခြင်း
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # ၄။ ပထမဆင့် - အားကစားလိုင်းများ ဇကာတင် စစ်ထုတ်ခြင်း
+    - name: Step 1 - Extract Sports Channels
+      run: python scripts/extract_sports.py
+
+    # ၅။ ဒုတိယဆင့် - အသက်ရှင်/မရှင် ကောက်စစ်ခြင်း (Active/Dead ခွဲခြားခြင်း)
+    - name: Step 2 - Run Health Check
+      run: python scripts/health_check.py
+
+    # ၆။ တတိယဆင့် - README.md Dashboard ပြောင်းလဲပေးခြင်း
+    - name: Step 3 - Generate Status Report
+      run: python scripts/generate_report.py
+
+    # ၇။ နောက်ဆုံးဆင့် - ပြောင်းလဲသွားသော ဖိုင်များကို Repo ထဲသို့ ပြန်တင်ခြင်း (Auto Commit)
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add playlist/active.m3u playlist/dead.m3u playlist/extracted_sports.m3u README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto-updated sports playlist and dashboard" && git push)
