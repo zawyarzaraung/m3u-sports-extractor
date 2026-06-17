@@ -6,13 +6,13 @@
 
 ### 📊 လက်ရှိ လိုင်းများ၏ အခြေအနေ (Live Status Dashboard)
 
-* **နောက်ဆုံး Update လုပ်ခဲ့သည့်အချိန်:** `2026-06-17 10:26 PM (မြန်မာစံတော်ချိန်)`
+* **နောက်ဆုံး Update လုပ်ခဲ့သည့်အချိန်:** `2026-06-18 02:59 AM (မြန်မာစံတော်ချိန်)`
 * **စုစုပေါင်း စစ်ဆေးခဲ့သည့် လိုင်းအရေအတွက်:** `158 လိုင်း`
 
 | အခြေအနေ (Status) | လိုင်းအရေအတွက် | M3U Playlist Link | လုပ်ဆောင်ချက် |
 | :--- | :---: | :--- | :--- |
-| ✅ **Active Channels** | `73` | `https://raw.githubusercontent.com/zawyarzaraung/m3u-sports-extractor/main/playlist/active.m3u` | လက်ရှိ ကြည့်ရှု၍ရသော အားကစားလိုင်းများ |
-| ⏳ **Dead Channels (စောင့်ကြည့်)** | `85` | `https://raw.githubusercontent.com/zawyarzaraung/m3u-sports-extractor/main/playlist/dead.m3u` | ဒေါင်းနေသဖြင့် ၅ ရက် စောင့်ကြည့်ဇုန်ထဲ ရောက်နေသောလိုင်းများ |
+| ✅ **Active Channels** | `72` | `https://raw.githubusercontent.com/zawyarzaraung/m3u-sports-extractor/main/playlist/active.m3u` | လက်ရှိ ကြည့်ရှု၍ရသော အားကစားလိုင်းများ |
+| ⏳ **Dead Channels (စောင့်ကြည့်)** | `86` | `https://raw.githubusercontent.com/zawyarzaraung/m3u-sports-extractor/main/playlist/dead.m3u` | ဒေါင်းနေသဖြင့် ၅ ရက် စောင့်ကြည့်ဇုန်ထဲ ရောက်နေသောလိုင်းများ |
 
 ---
 
