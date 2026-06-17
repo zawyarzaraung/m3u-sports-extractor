@@ -65,6 +65,8 @@ http://27.124.71.27/T-Sports/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports dead_since="2026-06-17"
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD dead_since="2026-06-17"
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="Sports",Sports Legends dead_since="2026-06-17"
 https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD dead_since="2026-06-17"
@@ -99,8 +101,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 4 dead_since="2026-06-17"
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/GGm9H9tLHP.png", Cricbuzz HD dead_since="2026-06-17"
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/GGm9H9tLHP.png", Willow HD TV dead_since="2026-06-17"
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/SZphbKsSMx.png", Euro TV dead_since="2026-06-17"
