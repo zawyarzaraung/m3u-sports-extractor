@@ -113,6 +113,8 @@ http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 http://198.195.239.50:8095/SonyTenSports5/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1 dead_since="2026-06-20"
 https://103.205.133.70/TntSports1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw8V9FCd/images.jpg" group-title="Sports",Hub Sports 2 HD dead_since="2026-06-20"
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280823.m3u8
 #EXTINF:-1 tvg-name="SONY SPORTS 2 HD" tvg-logo="https://i.postimg.cc/YCDVMc7t/download.jpg" group-title="Sports",SONY SPORTS 2 HD dead_since="2026-06-20"
 http://198.195.239.50:8095/SonyTenSports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports dead_since="2026-06-20"
