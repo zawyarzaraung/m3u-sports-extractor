@@ -3,6 +3,8 @@
 https://himelhimuishere.pages.dev/fwc26.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png", T Sports 🇧🇩  dead_since="2026-06-26"
 https://tvsen7.aynaott.com/tsports-hd/index.ts.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",TNT Sports ARG Premium dead_since="2026-06-26"
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",ESPN LATIN dead_since="2026-06-26"
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnlat_720.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",T Sports HD dead_since="2026-06-26"
@@ -127,6 +129,8 @@ https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-
 https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1779283786&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7c79e4f07ef8bf05e35ecffd9e056652
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58" group-title="Sports",Golf Channel dead_since="2026-06-26"
 https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1779283789&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=56943a1262fd47843d1dbaaaf88363bc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PV8jSqB/download.png" group-title="Sports",Turkmenistan Sport 🇹🇲 dead_since="2026-06-26"
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="Sports",Fox Sports 2 dead_since="2026-06-26"
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCzkdXdr/images.png" group-title="Sports",Fox Sports 2 dead_since="2026-06-26"
