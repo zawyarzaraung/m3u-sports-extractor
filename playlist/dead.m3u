@@ -69,14 +69,8 @@ http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports C 🇦🇷 dead_since="2026-07-02"
 http://147.135.114.221:8001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", T Sports HD 🇧🇩 Bangladesh dead_since="2026-07-02"
-http://27.124.71.27/T-Sports/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1 dead_since="2026-07-02"
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 dead_since="2026-07-02"
-http://27.124.71.27/beIN_Sports_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3 dead_since="2026-07-02"
-http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia dead_since="2026-07-02"
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1 dead_since="2026-07-02"
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 dead_since="2026-07-02"
@@ -169,5 +163,7 @@ https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6JxqQSd/images.png" group-title="Sports",WWE Smackdown (ROXIE) dead_since="2026-07-02"
 https://601.formaturamaxi.com.br/wwe.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1n8mxb/download.png" group-title="Sports",DAZN COMBAT dead_since="2026-07-02"
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52DkfGPt/Screenshot-2026-06-10-06-34-49-353-com-android-chrome-edit.jpg" group-title="Sports",Суспільне Kiev Спорт HD 🇺🇦 dead_since="2026-07-02"
 https://tva.in.ua/live/susp-sport.m3u8
