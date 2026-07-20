@@ -39,6 +39,8 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports C 🇦🇷 Argentina
 http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports D 🇦🇷 Argentina
+http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports E 🇦🇷 Argentina
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/327918
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports D 🇦🇷
@@ -65,8 +67,6 @@ http://znty.dyndns.org:5010/hls/eleven4.m3u8
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports  - 🇫🇷 France
 http://145.239.5.177/559/mpegts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports  🇫🇷 France
-http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 🇷🇸 Serbia
@@ -87,6 +87,8 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/HMfImxTUXS.jpg", Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxBhn29/images.jpg" group-title="Sports",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j1RkG3v/IDMAN-TV.jpg" group-title="Sports",IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQ8jHxG/download.jpg" group-title="Sports",SKY SPORTS ACTION

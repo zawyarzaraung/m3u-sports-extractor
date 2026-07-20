@@ -61,8 +61,6 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",Shol Sports dead_since="2026-07-20"
 https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports D 🇦🇷 Argentina dead_since="2026-07-20"
-http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports 🇦🇷 dead_since="2026-07-20"
 http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports B 🇦🇷 dead_since="2026-07-20"
@@ -71,6 +69,8 @@ https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 3 HD dead_since="2026-07-20"
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports  🇫🇷 France dead_since="2026-07-20"
+http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1 dead_since="2026-07-20"
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 dead_since="2026-07-20"
@@ -113,8 +113,6 @@ http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 1HD 1" tvg-logo="https://i.postimg.cc/KYz13MCB/images.jpg" group-title="Sports",STAR SPORTS 1HD 1 dead_since="2026-07-20"
 http://198.195.239.50:8095/SonyTenSports5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxBhn29/images.jpg" group-title="Sports",Star Sports 1 HD dead_since="2026-07-20"
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1 dead_since="2026-07-20"
 https://103.205.133.70/TntSports1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw8V9FCd/images.jpg" group-title="Sports",Hub Sports 2 HD dead_since="2026-07-20"
