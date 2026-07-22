@@ -69,6 +69,8 @@ http://27.124.71.27/T-Sports/index.m3u8
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 2 HD
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 3 HD
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 4 HD
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 5 HD
