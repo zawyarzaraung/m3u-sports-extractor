@@ -3,6 +3,8 @@
 https://himelhimuishere.pages.dev/fwc26.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png", T Sports 🇧🇩  dead_since="2026-07-26"
 https://tvsen7.aynaott.com/tsports-hd/index.ts.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",TNT Sports ARG Premium dead_since="2026-07-26"
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",ESPN LATIN dead_since="2026-07-26"
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnlat_720.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh",T Sports HD dead_since="2026-07-26"
@@ -163,7 +165,5 @@ https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 https://601.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1n8mxb/download.png" group-title="Sports",DAZN COMBAT dead_since="2026-07-26"
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h45wBPyW/download.jpg" group-title="Sports",Sport Digital 🇩🇪 dead_since="2026-07-26"
-https://jmp2.uk/stvp-ATAJ0500433A
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52DkfGPt/Screenshot-2026-06-10-06-34-49-353-com-android-chrome-edit.jpg" group-title="Sports",Суспільне Kiev Спорт HD 🇺🇦 dead_since="2026-07-26"
 https://tva.in.ua/live/susp-sport.m3u8
