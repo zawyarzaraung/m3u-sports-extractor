@@ -107,8 +107,6 @@ https://tvsen7.aynaott.com/tsn1/index.m3u8
 https://tvsen7.aynaott.com/tsn2/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png", TSN 3
 https://tvsen7.aynaott.com/tsn3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxBhn29/images.jpg" group-title="Sports",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0j1RkG3v/IDMAN-TV.jpg" group-title="Sports",IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQ8jHxG/download.jpg" group-title="Sports",SKY SPORTS ACTION
