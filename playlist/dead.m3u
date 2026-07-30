@@ -47,6 +47,14 @@ http://198.195.239.50:8095/Eurosport/index.m3u8
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1 HD 🇮🇳 dead_since="2026-07-30"
 http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Sports 1 HD 🇮🇳 dead_since="2026-07-30"
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Sports 2 HD 🇮🇳 dead_since="2026-07-30"
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Sports 5 HD 🇮🇳 dead_since="2026-07-30"
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",EuroSports HD 🇮🇳 dead_since="2026-07-30"
+https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",Shol Sports dead_since="2026-07-30"
 https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯 dead_since="2026-07-30"
@@ -57,8 +65,6 @@ http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports C 🇦🇷 dead_since="2026-07-30"
 http://147.135.114.221:8001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 1 HD dead_since="2026-07-30"
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1 dead_since="2026-07-30"
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 dead_since="2026-07-30"
@@ -89,8 +95,6 @@ http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 1HD 1" tvg-logo="https://i.postimg.cc/KYz13MCB/images.jpg" group-title="Sports",STAR SPORTS 1HD 1 dead_since="2026-07-30"
 http://198.195.239.50:8095/SonyTenSports5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxBhn29/images.jpg" group-title="Sports",Star Sports 1 HD dead_since="2026-07-30"
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1 dead_since="2026-07-30"
 https://103.205.133.70/TntSports1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw8V9FCd/images.jpg" group-title="Sports",Hub Sports 2 HD dead_since="2026-07-30"
