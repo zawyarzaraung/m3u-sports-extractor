@@ -159,3 +159,11 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbxBhn29/images.jpg" group-title="Sports",STAR SPORTS KHEL
 http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Sports 1 HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Sports 2 HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Sports 5 HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",EuroSports HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
