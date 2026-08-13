@@ -37,6 +37,10 @@ http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/SZphbKsSMx.png", Euro TV dead_since="2026-08-13"
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/va7WOdXDQC.jpg", Star Sports 1 dead_since="2026-08-13"
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/va7WOdXDQC.jpg", Star Sports 1 B dead_since="2026-08-13"
+https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/aqlLWjDMNH.png", ESPN dead_since="2026-08-13"
 https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/d4W6mvjalX.png", ASports dead_since="2026-08-13"
@@ -63,6 +67,8 @@ http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
 http://198.195.239.50:8095/SonyTenSports5/index.m3u8
 #EXTINF:-1 tvg-name="A Sports" tvg-logo="https://i.postimg.cc/GmnPDqjT/download.jpg" group-title="Sports",A Sports dead_since="2026-08-13"
 http://198.195.239.50:8095/Eurosport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT8MBq05/image.png" group-title="Sports",SKY SPORT LALIGA 🇲🇽 dead_since="2026-08-13"
+http://179.60.224.196:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1 dead_since="2026-08-13"
 https://103.205.133.70/TntSports1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw8V9FCd/images.jpg" group-title="Sports",Hub Sports 2 HD dead_since="2026-08-13"
