@@ -21,8 +21,6 @@ https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a6
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports C 🇦🇷 Argentina
 http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports D 🇦🇷 Argentina
-http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg", Tyc Sports E 🇦🇷 Argentina
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/327918
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", DSports E 🇦🇷
@@ -41,8 +39,6 @@ http://27.124.71.27/T-Sports/index.m3u8
 http://145.239.5.177/559/mpegts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports  🇫🇷 France
 http://145.239.5.177:80/559/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1  🇷🇸 Serbia
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 🇷🇸 Serbia
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Tf3GP8uGY_.jpg", TUDN 🇲🇽 Mexico
@@ -105,6 +101,8 @@ https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1779283796&u=78be66
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8?e=1779283798&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=652ed8ae174a9efdb335fb31355f0fb5
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927" group-title="Sports",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8" group-title="Sports",Bloomberg TV
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8?e=1779283799&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ecba4c0cf6ffc82d2d0dfc78f69c1061
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142" group-title="Sports",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="Sports",TSN 1
