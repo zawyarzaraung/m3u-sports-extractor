@@ -83,6 +83,10 @@ https://tvsen6.aynaott.com/asports/index.m3u8?e=1779283785&u=78be6644-0a65-48ec-
 https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1779283786&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7c79e4f07ef8bf05e35ecffd9e056652
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTQ4sYCk/images.png" group-title="Sports",MTRSPT 1 dead_since="2026-08-31"
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PV8jSqB/download.png" group-title="Sports",Turkmenistan Sport 🇹🇲 dead_since="2026-08-31"
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PV8jSqB/download.png" group-title="Sports",Turkmenistan Sport 🇹🇲 dead_since="2026-08-31"
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6JxqQSd/images.png" group-title="Sports",WWE Smackdown (ROXIE) dead_since="2026-08-31"
 https://601.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk1n8mxb/download.png" group-title="Sports",DAZN COMBAT dead_since="2026-08-31"
