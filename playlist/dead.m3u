@@ -15,6 +15,8 @@ http://147.135.114.221:8001/play/a00m/index.m3u8
 http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", Vivo TV dead_since="2026-09-23"
 http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/527938
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", T Sports HD 🇧🇩 Bangladesh dead_since="2026-09-23"
+http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", T Sports B 🇧🇩 Bangladesh dead_since="2026-09-23"
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", El Heddaf Tv  🇩🇿 Algeria dead_since="2026-09-23"
@@ -29,6 +31,12 @@ http://znty.dyndns.org:5010/hls/eleven3.m3u8
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png", DAZN 5 HD dead_since="2026-09-23"
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1 dead_since="2026-09-23"
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 dead_since="2026-09-23"
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 3 dead_since="2026-09-23"
+http://27.124.71.27/beIN_Sports_3/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1 dead_since="2026-09-23"
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2 dead_since="2026-09-23"
@@ -75,8 +83,6 @@ http://198.195.239.50:8095/SonyTenSports5/index.m3u8
 http://198.195.239.50:8095/Eurosport/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1 dead_since="2026-09-23"
 https://103.205.133.70/TntSports1HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw8V9FCd/images.jpg" group-title="Sports",Hub Sports 2 HD dead_since="2026-09-23"
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280823.m3u8
 #EXTINF:-1 tvg-name="SONY SPORTS 2 HD" tvg-logo="https://i.postimg.cc/YCDVMc7t/download.jpg" group-title="Sports",SONY SPORTS 2 HD dead_since="2026-09-23"
 http://198.195.239.50:8095/SonyTenSports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports dead_since="2026-09-23"
@@ -93,8 +99,6 @@ https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1779283789&u=78be6644-0a65-4
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTQ4sYCk/images.png" group-title="Sports",MTRSPT 1 dead_since="2026-09-23"
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PV8jSqB/download.png" group-title="Sports",Turkmenistan Sport 🇹🇲 dead_since="2026-09-23"
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn dead_since="2026-09-23"
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1779283793&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cf2b4cb8b6c96ab86daee4299c792295
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b" group-title="Sports",NFL Network dead_since="2026-09-23"
